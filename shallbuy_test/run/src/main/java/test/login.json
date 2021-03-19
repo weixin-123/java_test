@@ -1,0 +1,15 @@
+[
+  {
+    "description":"这是一个会返回Token信息的get请求",
+    "request": {
+      "url": "/staff/index/staff/login",
+      "method": "post",
+    },
+    "response": {
+      "prompt": 0,
+      "url_type": "",
+      "url": "",
+      "code": 0,
+      "message": "success"
+}
+]
